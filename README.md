@@ -19,11 +19,12 @@
   <a href="https://app.daily.dev/Caaroov"><img src="https://api.daily.dev/devcards/80fcb675d9d046d8a73b293d3ca7e410.png?r=cr6" width="400" alt="Carolina Vega's Dev Card"/></a>
  
   ##
-
+### Contacto
  <a href = "mailto:angelescarolinavega@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/carolina-vega-fs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  ##
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/carovdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carovdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carovdev&layout=compact&langs_count=7&theme=dracula"/>
